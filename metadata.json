@@ -1,0 +1,6 @@
+{
+  "name": "BillZo",
+  "description": "Billing, Inventory & GST Android app with Camera, Microphone, and Notification permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

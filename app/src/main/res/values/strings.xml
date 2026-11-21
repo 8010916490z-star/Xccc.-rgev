@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BillZo</string>
+    <string name="notification_channel_id">billzo_alerts</string>
+    <string name="notification_channel_name">BillZo Alerts</string>
+    <string name="notification_channel_desc">Billing reminders, low stock, and daily summaries</string>
+    <string name="permissions_title">Permissions Needed</string>
+    <string name="permissions_subtitle">Allow Camera, Microphone, and Notification permissions for barcode scanning, voice input, and billing alerts.</string>
+    <string name="grant_permissions">Allow Permissions</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="dismiss">Later</string>
+</resources>
